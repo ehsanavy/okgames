@@ -1,2 +1,2 @@
 # okgames
-is okgames Producer.
+is okgames Producer game.
